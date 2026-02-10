@@ -1,6 +1,5 @@
 
-title: Welcome to own my blog!
-i printed some text
+title:
 
 - First item
 - Second item
